@@ -12,5 +12,9 @@ int main()
     //end
 
     double nJejari, N = nLuas;
-}
+    cout << "Masukkan jejari = ";
+    cin >> nJejari:
+    nLuas = 3.14 * nJejari * nJejari;
+    cout << "Luasnya = " << nLuas << endl;
+}  
 
