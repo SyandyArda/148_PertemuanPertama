@@ -11,6 +11,6 @@ int main()
         // display 'Luasnya= ' + nLuas
     //end
 
-    double nJejari, N=nLuas
+    double nJejari, N = nLuas;
 }
 
