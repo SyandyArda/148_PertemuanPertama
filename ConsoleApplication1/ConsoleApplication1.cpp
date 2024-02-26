@@ -11,10 +11,10 @@ int main()
         // display 'Luasnya= ' + nLuas
     //end
 
-    double nJejari, N = nLuas;
-    cout << "Masukkan jejari = ";
-    cin >> nJejari:
+    double nJejari, nLuas;
+    cout << "Masukkan Jejari = ";
+    cin >> nJejari;
     nLuas = 3.14 * nJejari * nJejari;
-    cout << "Luasnya = " << nLuas << endl;
+    cout << "Luasnya = "<< nLuas << endl;
 }  
 
